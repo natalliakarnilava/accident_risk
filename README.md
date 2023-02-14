@@ -16,7 +16,7 @@ The customer requires to cover following points:
   * What other factors need to be considered?
   * Does the car need to be equipped with any sensors or a camera?
 
-# Summery
+# Summary
 
 The best model is the LGBMClassifier, which showed the value of the F1-score at the level of 0.617853 on the validation set with boosting_type='dart', learning_rate=0.01 and max_depth=8 hyperparameters, and  F1-score of 0.6011 on the test data set.
 
